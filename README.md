@@ -1,5 +1,6 @@
 # Exercise-Tracker
-This is one of my projects in the way to achieve "Back End Development and APIs" certification at freeCodeCamp.org. It was designed using Nodejs and Express. In this project, when opening the live view, you must click on the links and then modify the date or timestamp in the URL, and press Enter. Tests:
+This is one of my projects in the way to achieve "Back End Development and APIs" certification at freeCodeCamp.org. It was designed using Nodejs and Express. In this project, when opening the live view, you can enter information for a new user.
+Tests:
 You can POST to /api/users with form data username to create a new user.
 The returned response from POST /api/users with form data username will be an object with username and _id properties.
 You can make a GET request to /api/users to get a list of all users.
